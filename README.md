@@ -24,17 +24,29 @@ Handwritten Digits Dataset (MNIST)
 Any other real-world dataset
 
 🏗️ How It Works
+
 Load the dataset and explore its structure.
+
 Preprocess the data (handle missing values, standardization, etc.).
+
 Apply the KNN algorithm to classify data points into clusters.
+
 Use the Elbow Method to determine the best value for K.
+
 Visualize the clusters using scatter plots or heatmaps.
+
 Evaluate performance using accuracy metrics.
+
 🚀 Technologies Used
+
 Python 🐍
+
 NumPy & Pandas 📊
+
 Matplotlib & Seaborn 📈
+
 Scikit-learn 🤖
 
 📜 License
+
 This project is licensed under the MIT License.
