@@ -1,5 +1,7 @@
-#📚 ML Prediction Project
-Check Commits : 
+📚 ML Prediction Project
+
+Check Commits : Add new Machine Learning project to new branch
+
 This project demonstrates the implementation of machine learning algorithms focused on:
 
 K-Nearest Neighbors (KNN) for Image Clustering
