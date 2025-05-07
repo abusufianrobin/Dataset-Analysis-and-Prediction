@@ -1,6 +1,6 @@
 📚 Naive Bayes Prediction Project
 
-Check Commits : 
+Check Commits : Naive Bayes algorithm projects added successfully
 
 This project applies the Naive Bayes classification algorithm to solve two real-world prediction tasks:
 
