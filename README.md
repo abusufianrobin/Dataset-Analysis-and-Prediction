@@ -1,58 +1,37 @@
-# Dataset-Analysis-and-Prediction
-Dataset Analysis using K-Nearest Neighbors (KNN) Clustering
+📚 Email Spam Detection Using Logistic Regression Assignemnt 
 
-📌 Overview
-This project demonstrates dataset analysis using the K-Nearest Neighbors (KNN) clustering algorithm. The goal is to classify data points into different clusters based on their feature similarity. The implementation includes data preprocessing, feature scaling, distance computation, and cluster assignment using KNN.
+Check commit : Logistic regression model for email-spam checking 
 
-📂 Features
+Dataset name : email.csv
 
-✅ Data Preprocessing – Handling missing values, normalization, and feature selection.
+Iteration Accuracy report added, Quyestion Added . 
 
-✅ KNN Implementation – Using distance-based clustering for pattern recognition.
+This project implements a Logistic Regression model from scratch to classify emails as Spam or Not Spam based on the frequency of commonly used words.
 
-✅ Elbow Method – Finding the optimal number of clusters.
+🚀 Project Features
 
-✅ Data Visualization – Graphical representation of clustered data points.
+📩 Spam vs Non-Spam Email Classification:
 
-✅ Evaluation Metrics – Accuracy, precision, recall, and F1-score for classification problems.
+Predicts whether an email is spam (label 1) or not spam (label 0).
 
-📌 Recommendation
+Trains a logistic regression model using a dataset of emails represented as word frequency vectors.
 
-To explore and view this specific project, please switch to the corresponding branches.
+📈 Custom Logistic Regression Model:
 
+Built without using machine learning libraries like scikit-learn.
 
-📊 Dataset
-The dataset used in this project contains multiple attributes/features used to classify data points into different groups. Example datasets include:
+Implements the core concepts of logistic regression:
 
-Iris Dataset (Flower classification)
-Customer Segmentation Dataset
-Handwritten Digits Dataset (MNIST)
-Any other real-world dataset
+Sigmoid function
 
-🏗️ How It Works
+Cross-entropy loss
 
-Load the dataset and explore its structure.
+Gradient descent optimization
 
-Preprocess the data (handle missing values, standardization, etc.).
+Feature normalization
 
-Apply the KNN algorithm to classify data points into clusters.
+📊 Visualization:
 
-Use the Elbow Method to determine the best value for K.
+Plots the cost function versus the number of iterations for different learning rates.
 
-Visualize the clusters using scatter plots or heatmaps.
-
-Evaluate performance using accuracy metrics.
-
-🚀 Technologies Used
-
-Python 🐍
-
-NumPy & Pandas 📊
-
-Matplotlib & Seaborn 📈
-
-Scikit-learn 🤖
-
-📜 License
-
-This project is licensed under the MIT License.
+Helps understand model convergence behavior.
