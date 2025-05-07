@@ -1,13 +1,18 @@
 # Dataset-Analysis-and-Prediction
 Dataset Analysis using K-Nearest Neighbors (KNN) Clustering
+
 📌 Overview
 This project demonstrates dataset analysis using the K-Nearest Neighbors (KNN) clustering algorithm. The goal is to classify data points into different clusters based on their feature similarity. The implementation includes data preprocessing, feature scaling, distance computation, and cluster assignment using KNN.
 
 📂 Features
 ✅ Data Preprocessing – Handling missing values, normalization, and feature selection.
+
 ✅ KNN Implementation – Using distance-based clustering for pattern recognition.
+
 ✅ Elbow Method – Finding the optimal number of clusters.
+
 ✅ Data Visualization – Graphical representation of clustered data points.
+
 ✅ Evaluation Metrics – Accuracy, precision, recall, and F1-score for classification problems.
 
 📊 Dataset
@@ -17,6 +22,7 @@ Iris Dataset (Flower classification)
 Customer Segmentation Dataset
 Handwritten Digits Dataset (MNIST)
 Any other real-world dataset
+
 🏗️ How It Works
 Load the dataset and explore its structure.
 Preprocess the data (handle missing values, standardization, etc.).
