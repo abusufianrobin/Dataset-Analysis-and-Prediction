@@ -16,6 +16,11 @@ This project demonstrates dataset analysis using the K-Nearest Neighbors (KNN) c
 
 ✅ Evaluation Metrics – Accuracy, precision, recall, and F1-score for classification problems.
 
+📌 Recommendation
+
+To explore and view this specific project, please switch to the corresponding branches.
+
+
 📊 Dataset
 The dataset used in this project contains multiple attributes/features used to classify data points into different groups. Example datasets include:
 
