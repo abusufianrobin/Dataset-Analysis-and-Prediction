@@ -1,40 +1,25 @@
-# Dataset-Analysis-and-Prediction
-Dataset Analysis using K-Nearest Neighbors (KNN) Clustering
+📚 Naive Bayes Prediction Project
 
-📌 Overview
-This project demonstrates dataset analysis using the K-Nearest Neighbors (KNN) clustering algorithm. The goal is to classify data points into different clusters based on their feature similarity. The implementation includes data preprocessing, feature scaling, distance computation, and cluster assignment using KNN.
+Check Commits : 
 
-📂 Features
-✅ Data Preprocessing – Handling missing values, normalization, and feature selection.
+This project applies the Naive Bayes classification algorithm to solve two real-world prediction tasks:
 
-✅ KNN Implementation – Using distance-based clustering for pattern recognition.
+Playing Tennis Prediction
 
-✅ Elbow Method – Finding the optimal number of clusters.
+Dhaka Weather Prediction
 
-✅ Data Visualization – Graphical representation of clustered data points.
+The models are implemented from scratch to demonstrate how Naive Bayes works with categorical and numerical features.
 
-✅ Evaluation Metrics – Accuracy, precision, recall, and F1-score for classification problems.
+🚀 Project Features
 
-📊 Dataset
-The dataset used in this project contains multiple attributes/features used to classify data points into different groups. Example datasets include:
+🏸 Playing Tennis Prediction:
 
-Iris Dataset (Flower classification)
-Customer Segmentation Dataset
-Handwritten Digits Dataset (MNIST)
-Any other real-world dataset
+Predicts whether a person will play tennis based on weather conditions such as outlook, temperature, humidity, and wind.
 
-🏗️ How It Works
-Load the dataset and explore its structure.
-Preprocess the data (handle missing values, standardization, etc.).
-Apply the KNN algorithm to classify data points into clusters.
-Use the Elbow Method to determine the best value for K.
-Visualize the clusters using scatter plots or heatmaps.
-Evaluate performance using accuracy metrics.
-🚀 Technologies Used
-Python 🐍
-NumPy & Pandas 📊
-Matplotlib & Seaborn 📈
-Scikit-learn 🤖
+Uses categorical data and applies Naive Bayes classification logic.
 
-📜 License
-This project is licensed under the MIT License.
+🌦️ Dhaka Weather Prediction:
+
+Predicts future weather conditions (Sunny, Rainy, Cloudy) in Dhaka city based on past weather attributes like humidity, temperature, wind speed, and atmospheric pressure.
+
+Works with numerical and categorical inputs.
